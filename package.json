@@ -1,0 +1,20 @@
+{
+  "name": "landing-page-of-house-of-the-dragon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzhersor/Landing-Page-of-House-of-the-Dragon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luzhersor/Landing-Page-of-House-of-the-Dragon/issues"
+  },
+  "homepage": "https://github.com/luzhersor/Landing-Page-of-House-of-the-Dragon#readme"
+}
